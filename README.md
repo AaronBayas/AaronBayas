@@ -66,10 +66,6 @@ Mi objetivo es crecer de manera constante y profesional como **desarrollador de 
 
 &nbsp;
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=AaronBayas&show_icons=true)
-
-&nbsp;
-
 ## 📌 Proyectos destacados
 
 💻 **Batalla Trivial**
