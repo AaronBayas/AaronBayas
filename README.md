@@ -74,7 +74,7 @@ Mi objetivo es crecer de manera constante y profesional como **desarrollador de 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronBayas&hide_border=true" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=AaronBayas&hide_border=true" alt="Racha de contribuciones"/>
 </p>
 
 &nbsp;
