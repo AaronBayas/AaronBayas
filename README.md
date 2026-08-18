@@ -66,16 +66,7 @@ Mi objetivo es crecer de manera constante y profesional como **desarrollador de 
 
 &nbsp;
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronBayas&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronBayas&layout=compact&hide_border=true" alt="Lenguajes más usados" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AaronBayas&hide_border=true" alt="Racha de contribuciones"/>
-</p>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=AaronBayas&show_icons=true)
 
 &nbsp;
 
