@@ -77,22 +77,6 @@ Mi practica profesional se fundamenta en principios de ingenieria como Clean Cod
 
 ---
 
-## Caracteristicas del Portafolio Web
-
-El portafolio personal ha sido desarrollado como una aplicacion web de alto rendimiento orientada a demostrar estandares de ingenieria de software:
-
-- **Arquitectura SPA Nativa:** Construccion modular como Single Page Application sin dependencias de frameworks pesados, garantizando tiempos de carga optimos y control absoluto del arbol DOM.
-- **Sistema de Diseno Propio (Design System):** Centralizacion de tokens mediante CSS Custom Properties (`--color-primary`, `--color-secondary`, `--color-accent`, `--color-surface`, `--color-bg`, etc.), con escala de espaciado modular desde `0.125rem` hasta `8rem` y estandarizacion de componentes reutilizables.
-- **Tipografia Profesional Coordinada:** Implementacion de la fuente **Outfit** para jerarquia de encabezados y marca visual, combinada con **Inter** para lectura tecnica de parrafos y formularios.
-- **Modo Oscuro / Claro con Persistencia:** Mecanismo de alternancia de tema nativo respaldado por `localStorage`, que memoriza las preferencias del usuario y realiza transiciones fluidas de paleta cromatica.
-- **Filtrado Reactivo en Tiempo Real:** Motor de filtrado de proyectos basado en atributos de datos (`data-techs`), gestionado mediante eventos de JavaScript y transiciones aceleradas por hardware (`fade-in-up`).
-- **Sistema Centralizado de Modales Accesibles:** Despliegue de informacion detallada de cada proyecto con captura de foco (`focus trap`), navegacion mediante teclado, soporte para tecla `Escape` y compatibilidad con lectores de pantalla a traves de roles ARIA (`role="dialog"`, `aria-modal="true"`).
-- **Validacion Asincrona de Formularios:** Modulo de validacion en tiempo real del lado del cliente que comprueba la estructura semantica de correos electronicos y extensiones de caracteres, proporcionando alertas visuales mediante estados dinamicos.
-- **Animaciones Optimizadas con Intersection Observer:** Revelado progresivo de componentes en pantalla ejecutado exclusivamente al entrar en el viewport, reduciendo el consumo de memoria y eliminando el lag de scroll.
-- **Navegacion Inteligente con Scroll Spy:** Barra de navegacion superior con efecto glassmorphism dinamico (`backdrop-filter: blur(20px)`) y deteccion continua de la seccion activa.
-
----
-
 ## Catalogo de Proyectos Destacados
 
 ### 1. AgroMercado
