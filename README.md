@@ -12,7 +12,7 @@
   <a href="https://github.com/AaronBayas" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
   </a>
-  <a href="https://github.com/AaronBayas/Portafolio" target="_blank" rel="noopener noreferrer">
+  <a href="https://aaronbayas.github.io/Portafolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portafolio_Web-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Repositorio del Portafolio" />
   </a>
 </p>
